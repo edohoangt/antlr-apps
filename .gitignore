@@ -1,0 +1,14 @@
+# ANTLR
+.antlr/
+*.interp
+*.tokens
+*Lexer*
+*Parser*
+*Listener*
+*Visitor*
+
+# Java
+*.class
+
+# Editor
+.vscode/
